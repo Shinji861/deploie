@@ -1,0 +1,97 @@
+.logo{
+    width: 200px;
+    height:122px;
+}
+.search{
+    background-color: lightgoldenrodyellow;
+    height: 19px;
+    width: 340px;
+}
+.lob{
+    margin-top: 40px;
+}
+.rech{
+    margin-top: 25px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+.rech .mic{
+    margin-top: 5%;
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    background-color: black;
+    height: 70px;
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.menu a:hover{
+    color: #C45F20;
+}
+.menu li{
+    margin-top: 24px;
+}
+.ok{
+    width: 100%;
+}
+.gf{
+    background-image: url(Wordpres/Rectangle.png);
+}
+.pro{
+    text-align: center;
+    height: 120px;
+    font-size: 80px;
+    text-decoration: underline;
+}
+.lm{
+    display: flex;
+    justify-content: space-around;
+}
+.frame{
+    height: 760px;
+    width: 70%;
+}
+.vv{
+    background-image: linear-gradient(to right, #000000, #ffffff);
+    -webkit-background-clip: text;
+    color: transparent;   
+}
+.ecrit{
+    display: flex;
+    justify-content: space-around;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: #000000;
+
+}
+.fin{
+    list-style: none;
+    margin-right: 38%;
+}
+.fin  a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+.A{
+    margin-right: 15%;
+    margin-top: 3%;
+}
+.ed{
+    margin-left: 28%;
+}
+.logos{
+    width: 200px;
+    height:122px;
+    margin-top: 2%;
+}
